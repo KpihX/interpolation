@@ -32,7 +32,7 @@ plot_f(ax, f, x_plot)
 # %%
 from polynomial.utils import *
 
-n = 20
+n = 40
 
 # Defintion of Uniforms points
 x_uniform = np.linspace(a, b, n)
@@ -63,16 +63,18 @@ print(polynomial)
 
 x = 6
 value = polynomial.horner_eval(x)
-print(f"p({x}) = {value}")
+print(f"P{x}) = {value}")
 
 # %% [markdown]
 # ## 4. Uniform Lagrange Interpolation of f
 
 # %%
-uni_lagrange_poly = NewtonInterpolPoly(x_uniform, y_uniform)
+uni_lagrange_poly = NewtonInterpolPoly(x_uniform, y_uniform, "Uni_lagrange_poly")
+
+print(uni_lagrange_poly)
 
 x0 = 1
-print(f"uni_lagrange_poly({x0}) =", uni_lagrange_poly.horner_eval(x0))
+print(f"\nUni_lagrange_poly({x0}) =", uni_lagrange_poly.horner_eval(x0))
 
 # print("\nx_uniform =", x_uniform)
 # print("\ny_uniform =", y_uniform)
@@ -85,14 +87,15 @@ uni_lagrange_poly.plot(ax, x_plot, "Uniform Lagrange Interpolation of f")
 # ## 5. Tchebychev Lagrange Interpolation of f
 
 # %%
-tchebychev_lagrange_poly = NewtonInterpolPoly(x_tchebychev, y_tchebychev)
+tchebychev_lagrange_poly = NewtonInterpolPoly(x_tchebychev, y_tchebychev, "Tchebychev_lagrange_poly")
+
+print(tchebychev_lagrange_poly)
 
 x0 = 1
-print(f"tchebychev_lagrange_poly({x0}) =", tchebychev_lagrange_poly.horner_eval(x0))
+print(f"\nTchebychev_lagrange_poly({x0}) =", tchebychev_lagrange_poly.horner_eval(x0))
 
 # print("\nx_tchebychev =", x_tchebychev)
 # print("\ny_tchebychev =", y_tchebychev)
-print(tchebychev_lagrange_poly.horner_eval(x0))
 
 fig, ax = set_fig()
 plot_f(ax, f, x_plot)
@@ -107,8 +110,9 @@ tchebychev_lagrange_poly.plot(ax, x_plot, "Tchebychev Lagrange Interpolation of 
 from integration import *
 
 f_ = lambda x: x**2
+start, end = -2, 5
 gaus_int_f_ = gauss_integration(f_, -2, 5)
-print("Gauss Integration of f_ =", gaus_int_f_)
+print(f"Gauss Integration of f_ from {start} to {end} =", gaus_int_f_)
 
 # %% [markdown]
 # ## 7. Errors of Lagrange Interpolations of f

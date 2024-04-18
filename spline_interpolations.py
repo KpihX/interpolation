@@ -30,7 +30,7 @@ plot_f(ax, f, x_plot)
 # ## 2. Definition of Interpolation parameters
 
 # %%
-n = 20
+n = 40
 
 # Defintion of Uniforms points
 x_uniform = np.linspace(a, b, n)
@@ -50,6 +50,7 @@ y = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 print("x =", x)
 print("y =", y)
 polynomial = Spline1Poly(x, y)
+print(polynomial)
 
 x = 1.5
 value = polynomial.horner_eval(x)
@@ -59,10 +60,12 @@ print(f"p({x}) = {value}")
 # ## 4. Uniform Linear Spline Interpolation of f
 
 # %%
-uni_linear_spline_poly = Spline1Poly(x_uniform, y_uniform)
+uni_linear_spline_poly = Spline1Poly(x_uniform, y_uniform, "Uni_linear_spline_poly")
+
+print(uni_linear_spline_poly)
 
 x0 = 1
-print(f"uni_linear_spline_poly({x0}) =", uni_linear_spline_poly.horner_eval(x0))
+print(f"\nUni_linear_spline_poly({x0}) =", uni_linear_spline_poly.horner_eval(x0))
 
 # print("\nx_uniform =", x_uniform)
 # print("\ny_uniform =", y_uniform)
@@ -78,10 +81,12 @@ uni_linear_spline_poly.plot(ax, "Uniform Linear Spline Interpolation of f")
 # %%
 from polynomial.taylor_poly import Spline3Polys
       
-uni_spline3_poly = Spline3Polys(x_uniform, y_uniform)
+uni_spline3_poly = Spline3Polys(x_uniform, y_uniform, "Uni_spline3_poly")
+
+print(uni_spline3_poly)
 
 x0 = 1
-print(f"uni_spline3_poly({x0}) =", uni_spline3_poly.horner_eval(x0))
+print(f"\nUni_spline3_poly({x0}) =", uni_spline3_poly.horner_eval(x0))
 
 fig, ax = set_fig()
 plot_f(ax, f, x_plot)
