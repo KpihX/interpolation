@@ -69,7 +69,7 @@ eb74bd31253@mhtml.blink" />
 
 
 <link rel=3D"stylesheet" href=3D"https://fr.wikipedia.org/w/load.php?lang=
-=3Dfr&amp;modules=3Dext.cite.styles%7Cext.math.styles%7Cext.uls.interlangua=
+=3Dfr&amp;modules=3Dext.cite.styles%7Cext.styles%7Cext.uls.interlangua=
 ge%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7=
 Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.=
 client.init&amp;only=3Dstyles&amp;skin=3Dvector-2022">
@@ -6862,9 +6862,9 @@ wikipedia.org/wiki/R%C3%A9f%C3%A9rence:Handbook_of_Mathematical_Functions_(=
 Abramowitz_et_Stegun)" title=3D"R=C3=A9f=C3=A9rence:Handbook of Mathematica=
 l Functions (Abramowitz et Stegun)">d=C3=A9tail de l=E2=80=99=C3=A9dition</=
 a>]</small> <small style=3D"line-height:1em;">(<a rel=3D"nofollow" class=3D=
-"external text" href=3D"http://people.math.sfu.ca/~cbm/aands/">lire en lign=
+"external text" href=3D"http://people.sfu.ca/~cbm/aands/">lire en lign=
 e</a><small class=3D"cachelinks">&nbsp;[<a href=3D"https://archive.wikiwix.=
-com/cache/?url=3Dhttp%3A%2F%2Fpeople.math.sfu.ca%2F~cbm%2Faands%2F" title=
+com/cache/?url=3Dhttp%3A%2F%2Fpeople.sfu.ca%2F~cbm%2Faands%2F" title=
 =3D"archive sur Wikiwix">archive</a>]</small>)</small>, <abbr class=3D"abbr=
 " title=3D"chapitre(s)">chap.</abbr>&nbsp;22<span class=3D"Z3988" title=3D"=
 ctx_ver=3DZ39.88-2004&amp;rft_val_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook=
@@ -15673,7 +15673,7 @@ gb(221, 221, 255)"] { background: rgb(11, 11, 45) !important; }
 ------MultipartBoundary--46q6OnDSCBtEnBzndopPGOkwTVX45ZmxjIna2kXrEd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://fr.wikipedia.org/w/load.php?lang=fr&modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
+Content-Location: https://fr.wikipedia.org/w/load.php?lang=fr&modules=ext.cite.styles%7Cext.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
 
 @charset "utf-8";
 

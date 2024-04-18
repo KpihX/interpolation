@@ -1,5 +1,5 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://www.bibmath.net/dico/index.php?action=affiche&quoi=./i/interpolationtchebychev.html
+Snapshot-Content-Location: https://www.bibnet/dico/index.php?action=affiche&quoi=./i/interpolationtchebychev.html
 Subject: Interpolation de Tchebychev
 Date: Thu, 11 Apr 2024 06:17:29 +0100
 MIME-Version: 1.0
@@ -12,7 +12,7 @@ Content-Type: multipart/related;
 Content-Type: text/html
 Content-ID: <frame-681B27C3C7570BB30572165820A9D6F2@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.bibmath.net/dico/index.php?action=affiche&quoi=./i/interpolationtchebychev.html
+Content-Location: https://www.bibnet/dico/index.php?action=affiche&quoi=./i/interpolationtchebychev.html
 
 <!DOCTYPE html><html lang=3D"fr" <head=3D"" data-darkreader-mode=3D"dynamic=
 " data-darkreader-scheme=3D"dark"><head><meta http-equiv=3D"Content-Type" c=
@@ -57,7 +57,7 @@ a00392f1393@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
 <meta name=3D"Author" content=3D"Fred Bayart"><meta name=3D"Description" co=
 ntent=3D"Dictionnaire de math=C3=A9matiques"><meta name=3D"viewport" conten=
 t=3D"width=3Ddevice-width, initial-scale=3D1"><title>Interpolation de Tcheb=
-ychev</title><link type=3D"text/css" href=3D"https://www.bibmath.net/css/bi=
+ychev</title><link type=3D"text/css" href=3D"https://www.bibnet/css/bi=
 bstyle.css" rel=3D"stylesheet"><meta name=3D"darkreader" content=3D"a9ebfaa=
 9722c473dae2243d5eee56354"></head><body><div id=3D"MathJax_Message" style=
 =3D"display: none;"></div>	<div style=3D"display:none"><span class=3D"MathJ=
@@ -75,196 +75,196 @@ y=3D"block"></math></span></span></span></div><header id=3D"bandeau"><div i=
 d=3D"bandeaucentre"><span id=3D"bandeaulogo">Bibm@th.net</span><span id=3D"=
 bandeaumilieu"><a href=3D"https://www.youtube.com/channel/UCP-LXgvAe7CMdf_d=
 ddUcLmw" alt=3D"Visitez notre chaine YouTube" title=3D"Visiter notre chaine=
- YouTube"><img src=3D"https://www.bibmath.net/img/youtube.png"></a><a href=
+ YouTube"><img src=3D"https://www.bibnet/img/youtube.png"></a><a href=
 =3D"https://www.facebook.com/bibmath" alt=3D"Consulter notre page FaceBook"=
- title=3D"Consulter notre page Facebook"><img src=3D"https://www.bibmath.ne=
-t/img/fb.png"></a><a href=3D"https://www.bibmath.net/forums/login.php" alt=
+ title=3D"Consulter notre page Facebook"><img src=3D"https://www.bibne=
+t/img/fb.png"></a><a href=3D"https://www.bibnet/forums/login.php" alt=
 =3D"Consulter mon compte" title=3D"Vous n'=C3=AAtes pas identifi=C3=A9. Ide=
-ntifiez-vous."><img src=3D"https://www.bibmath.net/img/moncompte.png"></a><=
+ntifiez-vous."><img src=3D"https://www.bibnet/img/moncompte.png"></a><=
 /span><form id=3D"formrech" name=3D"recherche" action=3D"https://www.bibmat=
 h.net/recherche.php" method=3D"get"><div id=3D"bandeaurecherche">
 	<input name=3D"q" placeholder=3D"Rechercher sur le site..." class=3D"formu=
 lairerecherche inputrecherche">
 	<button class=3D"formulairerecherche boutonrecherche" value=3D"" title=3D"=
 Rechercher">=20
-	<img src=3D"https://www.bibmath.net//img/recherche.png" height=3D"30px">
+	<img src=3D"https://www.bibnet//img/recherche.png" height=3D"30px">
 	</button></div></form></div></header><header id=3D"bandeaumobile"><div cla=
 ss=3D"sousbandeaumobile"><span class=3D"itembandeaumobile" id=3D"iconeouvre=
-menu"><a><img src=3D"https://www.bibmath.net/img/menumobile.png"></a></span=
+menu"><a><img src=3D"https://www.bibnet/img/menumobile.png"></a></span=
 ><span class=3D"itembandeaumobilefondnoir" id=3D"iconefermemenu"><a><img sr=
-c=3D"https://www.bibmath.net/img/deletemobile.png"></a></span><span class=
+c=3D"https://www.bibnet/img/deletemobile.png"></a></span><span class=
 =3D"itembandeaumobile">Bibm@th</span></div><div class=3D"sousbandeaumobile"=
-><span class=3D"itembandeaumobile"><a href=3D"https://www.bibmath.net/forum=
+><span class=3D"itembandeaumobile"><a href=3D"https://www.bibnet/forum=
 s/index.php" title=3D"Acc=C3=A9der au forum du site"><img src=3D"https://ww=
-w.bibmath.net/img/forumgrand.png"></a></span><span class=3D"itembandeaumobi=
+w.bibnet/img/forumgrand.png"></a></span><span class=3D"itembandeaumobi=
 lesansbordure"><a href=3D"https://www.facebook.com/bibmath" alt=3D"Consulte=
 r notre page FaceBook" title=3D"Consulter notre page Facebook"><img src=3D"=
-https://www.bibmath.net/img/fbmobile.png"></a></span><span class=3D"itemban=
-deaumobilesansbordure"><a href=3D"https://www.bibmath.net/forums/login.php"=
+https://www.bibnet/img/fbmobile.png"></a></span><span class=3D"itemban=
+deaumobilesansbordure"><a href=3D"https://www.bibnet/forums/login.php"=
  alt=3D"Consulter mon compte" title=3D"Vous n'=C3=AAtes pas identifi=C3=A9.=
- Identifiez-vous."><img src=3D"https://www.bibmath.net/img/moncomptemobile.=
+ Identifiez-vous."><img src=3D"https://www.bibnet/img/moncomptemobile.=
 png"></a></span><span class=3D"itembandeaumobile" id=3D"iconeouvrerecherche=
-"><a><img src=3D"https://www.bibmath.net/img/loupemobile.png"></a></span><s=
+"><a><img src=3D"https://www.bibnet/img/loupemobile.png"></a></span><s=
 pan class=3D"itembandeaumobilefondnoir" id=3D"iconefermerecherche"><a><img =
-src=3D"https://www.bibmath.net/img/deletemobile.png"></a></span></div></hea=
+src=3D"https://www.bibnet/img/deletemobile.png"></a></span></div></hea=
 der><div id=3D"recherchemobile"><form id=3D"formrecherchemobile" name=3D"re=
-cherche" action=3D"https://www.bibmath.net/recherche.php" method=3D"get"><d=
+cherche" action=3D"https://www.bibnet/recherche.php" method=3D"get"><d=
 iv class=3D"divinputrecherche"><input name=3D"q" placeholder=3D"Rechercher =
 sur le site..." class=3D"formulairerecherche inputrecherche"></div><div cla=
 ss=3D"divboutonmobile"><button class=3D"formulairerecherche boutonrecherche=
 " value=3D"" title=3D"Rechercher"> </button></div></form></div><div id=3D"m=
 enuetsousmenu" class=3D"fixed"><nav id=3D"menuhaut"><div id=3D"menuhautcent=
 re"><div id=3D"menuhautgauche"><section id=3D"listemenuhaut"><span id=3D"me=
-nu0" class=3D"item"><a href=3D"https://www.bibmath.net/index.php"><img src=
-=3D"https://www.bibmath.net/img/maison.png">Accueil</a></span><span id=3D"m=
-enu1" class=3D"item"><a><img src=3D"https://www.bibmath.net/img/lycee16.png=
+nu0" class=3D"item"><a href=3D"https://www.bibnet/index.php"><img src=
+=3D"https://www.bibnet/img/maison.png">Accueil</a></span><span id=3D"m=
+enu1" class=3D"item"><a><img src=3D"https://www.bibnet/img/lycee16.png=
 ">Lyc=C3=A9e</a></span><span id=3D"menu2" class=3D"item"><a><img src=3D"htt=
-ps://www.bibmath.net/img/ressources.png">Sup=C3=A9rieur</a></span><span id=
-=3D"menu3" class=3D"item"><a><img src=3D"https://www.bibmath.net/img/biblio=
+ps://www.bibnet/img/ressources.png">Sup=C3=A9rieur</a></span><span id=
+=3D"menu3" class=3D"item"><a><img src=3D"https://www.bibnet/img/biblio=
 theques.png">Biblioth=C3=A8ques</a></span><span id=3D"menu4" class=3D"items=
-electionne"><a><img src=3D"https://www.bibmath.net/img/references.png">R=C3=
+electionne"><a><img src=3D"https://www.bibnet/img/references.png">R=C3=
 =A9f=C3=A9rences</a></span><span id=3D"menu5" class=3D"item"><a><img src=3D=
-"https://www.bibmath.net/img/themes.png">Th=C3=A8mes</a></span><span id=3D"=
-menu6" class=3D"item"><a href=3D"https://www.bibmath.net/forums/index.php">=
-<img src=3D"https://www.bibmath.net/img/forum.png">Forum</a></span></sectio=
+"https://www.bibnet/img/themes.png">Th=C3=A8mes</a></span><span id=3D"=
+menu6" class=3D"item"><a href=3D"https://www.bibnet/forums/index.php">=
+<img src=3D"https://www.bibnet/img/forum.png">Forum</a></span></sectio=
 n></div><div id=3D"menuhautdroite"><section id=3D"listemenuhaut"><span id=
-=3D"menu7" class=3D"item"><a href=3D"https://www.bibmath.net/ressources/mon=
-compte.php"><img src=3D"https://www.bibmath.net/img/profil.png">Mon compte<=
+=3D"menu7" class=3D"item"><a href=3D"https://www.bibnet/ressources/mon=
+compte.php"><img src=3D"https://www.bibnet/img/profil.png">Mon compte<=
 /a></span></section></div></div></nav><nav id=3D"sousmenuhaut"><div id=3D"s=
 ousmenuhautcentre"><section id=3D"listesousmenuhaut"><div class=3D"sousmenu=
 contenu" id=3D"sousmenu_0" style=3D"display:none"></div><div class=3D"sousm=
 enucontenu" id=3D"sousmenu_1" style=3D"display:none"><span class=3D"sousmen=
-uitem"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daff=
+uitem"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daff=
 iche&amp;quoi=3Dcollege/index">Coll=C3=A8ge</a></span><span class=3D"sousme=
-nuitem"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daf=
+nuitem"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daf=
 fiche&amp;quoi=3Dseconde/index">Seconde</a></span><span class=3D"sousmenuit=
-em"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffich=
+em"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daffich=
 e&amp;quoi=3Dgrandoral/index">Grand Oral</a></span></div><div class=3D"sous=
 menucontenu" id=3D"sousmenu_2" style=3D"display:none"><span class=3D"sousme=
-nuitem"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daf=
+nuitem"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daf=
 fiche&amp;quoi=3Dmpsi/index">Math Sup</a></span><span class=3D"sousmenuitem=
-"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche&=
+"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daffiche&=
 amp;quoi=3Dmathspe/index">Math Sp=C3=A9</a></span><span class=3D"sousmenuit=
-em"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffich=
+em"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daffich=
 e&amp;quoi=3Dcapes/index">Capes</a></span><span class=3D"sousmenuitem"><a h=
-ref=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche&amp;qu=
+ref=3D"https://www.bibnet/ressources/index.php?action=3Daffiche&amp;qu=
 oi=3Dagreginterne/index">Agreg interne</a></span><span class=3D"sousmenuite=
-m"><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche=
+m"><a href=3D"https://www.bibnet/ressources/index.php?action=3Daffiche=
 &amp;quoi=3Dbts/index">BTS</a></span></div><div class=3D"sousmenucontenu" i=
 d=3D"sousmenu_3" style=3D"display:none"><span class=3D"sousmenuitem"><a hre=
-f=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche&amp;quoi=
+f=3D"https://www.bibnet/ressources/index.php?action=3Daffiche&amp;quoi=
 =3Dbde/index">Biblioth=C3=A8que d'exercices</a></span><span class=3D"sousme=
-nuitem"><a href=3D"https://www.bibmath.net/pbs/index.php">Biblioth=C3=A8que=
+nuitem"><a href=3D"https://www.bibnet/pbs/index.php">Biblioth=C3=A8que=
  de probl=C3=A8mes</a></span><span class=3D"sousmenuitem"><a href=3D"https:=
-//www.bibmath.net/quizz/index.php">Automatismes</a></span></div><div class=
+//www.bibnet/quizz/index.php">Automatismes</a></span></div><div class=
 =3D"sousmenucontenu" id=3D"sousmenu_4" style=3D"display:flex"><span class=
-=3D"sousmenuitemselectionne"><a href=3D"https://www.bibmath.net/dico/index.=
+=3D"sousmenuitemselectionne"><a href=3D"https://www.bibnet/dico/index.=
 php">Dictionnaire</a></span><span class=3D"sousmenuitem"><a href=3D"https:/=
-/www.bibmath.net/bios/index.php">Biographie de math=C3=A9maticiens</a></spa=
-n><span class=3D"sousmenuitem"><a href=3D"https://www.bibmath.net/formulair=
+/www.bibnet/bios/index.php">Biographie de math=C3=A9maticiens</a></spa=
+n><span class=3D"sousmenuitem"><a href=3D"https://www.bibnet/formulair=
 e/index.php">Formulaire</a></span><span class=3D"sousmenuitem"><a href=3D"h=
-ttps://www.bibmath.net/trans/index.php">Lexique fran=C3=A7ais/anglais</a></=
+ttps://www.bibnet/trans/index.php">Lexique fran=C3=A7ais/anglais</a></=
 span></div><div class=3D"sousmenucontenu" id=3D"sousmenu_5" style=3D"displa=
-y:none"><span class=3D"sousmenuitem"><a href=3D"https://www.bibmath.net/cry=
+y:none"><span class=3D"sousmenuitem"><a href=3D"https://www.bibnet/cry=
 pto/index.php">Cryptographie et codes secrets</a></span><span class=3D"sous=
-menuitem"><a href=3D"https://www.bibmath.net/jeux/index.php">Jeux et =C3=A9=
+menuitem"><a href=3D"https://www.bibnet/jeux/index.php">Jeux et =C3=A9=
 nigmes</a></span><span class=3D"sousmenuitem"><a href=3D"https://www.bibmat=
 h.net/carres/index.php?action=3Daffiche&amp;quoi=3Dcarres">Carr=C3=A9s magi=
-ques</a></span><span class=3D"sousmenuitem"><a href=3D"https://www.bibmath.=
+ques</a></span><span class=3D"sousmenuitem"><a href=3D"https://www.bib=
 net/quotidien/index.php">Math=C3=A9matiques au quotidien</a></span><span cl=
-ass=3D"sousmenuitem"><a href=3D"https://www.bibmath.net/dossiers/index.php"=
+ass=3D"sousmenuitem"><a href=3D"https://www.bibnet/dossiers/index.php"=
 >Dossiers</a></span></div><div class=3D"sousmenucontenu" id=3D"sousmenu_6" =
 style=3D"display:none"></div><div class=3D"sousmenucontenu" id=3D"sousmenu_=
 7" style=3D"display:none"></div></section></div></nav><nav id=3D"menumobile=
 "><div class=3D"itemmenumobile"><div class=3D"teteitemmenumobile"><span><a =
-href=3D"https://www.bibmath.net/index.php">Accueil</a></span><img src=3D"ht=
-tps://www.bibmath.net/img/flechemenumobileferme.png" id=3D"sousmenumobileim=
-ageferme0"><img src=3D"https://www.bibmath.net/img/flechemenumobileouvert.p=
+href=3D"https://www.bibnet/index.php">Accueil</a></span><img src=3D"ht=
+tps://www.bibnet/img/flechemenumobileferme.png" id=3D"sousmenumobileim=
+ageferme0"><img src=3D"https://www.bibnet/img/flechemenumobileouvert.p=
 ng" id=3D"sousmenumobileimageouvert0" style=3D"display:none;"></div></div><=
 div class=3D"itemmenumobile"><div class=3D"teteitemmenumobile"><span><a>Lyc=
-=C3=A9e</a></span><img src=3D"https://www.bibmath.net/img/flechemenumobilef=
-erme.png" id=3D"sousmenumobileimageferme1"><img src=3D"https://www.bibmath.=
+=C3=A9e</a></span><img src=3D"https://www.bibnet/img/flechemenumobilef=
+erme.png" id=3D"sousmenumobileimageferme1"><img src=3D"https://www.bib=
 net/img/flechemenumobileouvert.png" id=3D"sousmenumobileimageouvert1" style=
 =3D"display:none;"></div><div class=3D"sousmenumobile" id=3D"sousmenumobile=
-1"><div class=3D"sousitemmenumobile"><span><a href=3D"https://www.bibmath.n=
+1"><div class=3D"sousitemmenumobile"><span><a href=3D"https://www.bibn=
 et/ressources/index.php?action=3Daffiche&amp;quoi=3Dcollege/index">Coll=C3=
 =A8ge</a></span></div><div class=3D"sousitemmenumobile"><span><a href=3D"ht=
-tps://www.bibmath.net/ressources/index.php?action=3Daffiche&amp;quoi=3Dseco=
+tps://www.bibnet/ressources/index.php?action=3Daffiche&amp;quoi=3Dseco=
 nde/index">Seconde</a></span></div><div class=3D"sousitemmenumobile"><span>=
-<a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche&am=
+<a href=3D"https://www.bibnet/ressources/index.php?action=3Daffiche&am=
 p;quoi=3Dgrandoral/index">Grand Oral</a></span></div></div></div><div class=
 =3D"itemmenumobile"><div class=3D"teteitemmenumobile"><span><a>Sup=C3=A9rie=
-ur</a></span><img src=3D"https://www.bibmath.net/img/flechemenumobileferme.=
-png" id=3D"sousmenumobileimageferme2"><img src=3D"https://www.bibmath.net/i=
+ur</a></span><img src=3D"https://www.bibnet/img/flechemenumobileferme.=
+png" id=3D"sousmenumobileimageferme2"><img src=3D"https://www.bibnet/i=
 mg/flechemenumobileouvert.png" id=3D"sousmenumobileimageouvert2" style=3D"d=
 isplay:none;"></div><div class=3D"sousmenumobile" id=3D"sousmenumobile2"><d=
-iv class=3D"sousitemmenumobile"><span><a href=3D"https://www.bibmath.net/re=
+iv class=3D"sousitemmenumobile"><span><a href=3D"https://www.bibnet/re=
 ssources/index.php?action=3Daffiche&amp;quoi=3Dmpsi/index">Math Sup</a></sp=
 an></div><div class=3D"sousitemmenumobile"><span><a href=3D"https://www.bib=
-math.net/ressources/index.php?action=3Daffiche&amp;quoi=3Dmathspe/index">Ma=
+net/ressources/index.php?action=3Daffiche&amp;quoi=3Dmathspe/index">Ma=
 th Sp=C3=A9</a></span></div><div class=3D"sousitemmenumobile"><span><a href=
-=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche&amp;quoi=
+=3D"https://www.bibnet/ressources/index.php?action=3Daffiche&amp;quoi=
 =3Dcapes/index">Capes</a></span></div><div class=3D"sousitemmenumobile"><sp=
-an><a href=3D"https://www.bibmath.net/ressources/index.php?action=3Daffiche=
+an><a href=3D"https://www.bibnet/ressources/index.php?action=3Daffiche=
 &amp;quoi=3Dagreginterne/index">Agreg interne</a></span></div><div class=3D=
-"sousitemmenumobile"><span><a href=3D"https://www.bibmath.net/ressources/in=
+"sousitemmenumobile"><span><a href=3D"https://www.bibnet/ressources/in=
 dex.php?action=3Daffiche&amp;quoi=3Dbts/index">BTS</a></span></div></div></=
 div><div class=3D"itemmenumobile"><div class=3D"teteitemmenumobile"><span><=
-a>Biblioth=C3=A8ques</a></span><img src=3D"https://www.bibmath.net/img/flec=
+a>Biblioth=C3=A8ques</a></span><img src=3D"https://www.bibnet/img/flec=
 hemenumobileferme.png" id=3D"sousmenumobileimageferme3"><img src=3D"https:/=
-/www.bibmath.net/img/flechemenumobileouvert.png" id=3D"sousmenumobileimageo=
+/www.bibnet/img/flechemenumobileouvert.png" id=3D"sousmenumobileimageo=
 uvert3" style=3D"display:none;"></div><div class=3D"sousmenumobile" id=3D"s=
 ousmenumobile3"><div class=3D"sousitemmenumobile"><span><a href=3D"https://=
-www.bibmath.net/ressources/index.php?action=3Daffiche&amp;quoi=3Dbde/index"=
+www.bibnet/ressources/index.php?action=3Daffiche&amp;quoi=3Dbde/index"=
 >Biblioth=C3=A8que d'exercices</a></span></div><div class=3D"sousitemmenumo=
-bile"><span><a href=3D"https://www.bibmath.net/pbs/index.php">Biblioth=C3=
+bile"><span><a href=3D"https://www.bibnet/pbs/index.php">Biblioth=C3=
 =A8que de probl=C3=A8mes</a></span></div><div class=3D"sousitemmenumobile">=
-<span><a href=3D"https://www.bibmath.net/quizz/index.php">Automatismes</a><=
+<span><a href=3D"https://www.bibnet/quizz/index.php">Automatismes</a><=
 /span></div></div></div><div class=3D"itemmenumobileselectionne"><div class=
 =3D"teteitemmenumobile"><span><a>R=C3=A9f=C3=A9rences</a></span><img src=3D=
-"https://www.bibmath.net/img/flechemenumobileferme.png" id=3D"sousmenumobil=
-eimageferme4"><img src=3D"https://www.bibmath.net/img/flechemenumobileouver=
+"https://www.bibnet/img/flechemenumobileferme.png" id=3D"sousmenumobil=
+eimageferme4"><img src=3D"https://www.bibnet/img/flechemenumobileouver=
 t.png" id=3D"sousmenumobileimageouvert4" style=3D"display:none;"></div><div=
  class=3D"sousmenumobile" id=3D"sousmenumobile4"><div class=3D"sousitemmenu=
-mobile"><span><a href=3D"https://www.bibmath.net/dico/index.php">Dictionnai=
+mobile"><span><a href=3D"https://www.bibnet/dico/index.php">Dictionnai=
 re</a></span></div><div class=3D"sousitemmenumobile"><span><a href=3D"https=
-://www.bibmath.net/bios/index.php">Biographie de math=C3=A9maticiens</a></s=
+://www.bibnet/bios/index.php">Biographie de math=C3=A9maticiens</a></s=
 pan></div><div class=3D"sousitemmenumobile"><span><a href=3D"https://www.bi=
-bmath.net/formulaire/index.php">Formulaire</a></span></div><div class=3D"so=
-usitemmenumobile"><span><a href=3D"https://www.bibmath.net/trans/index.php"=
+bnet/formulaire/index.php">Formulaire</a></span></div><div class=3D"so=
+usitemmenumobile"><span><a href=3D"https://www.bibnet/trans/index.php"=
 >Lexique fran=C3=A7ais/anglais</a></span></div></div></div><div class=3D"it=
 emmenumobile"><div class=3D"teteitemmenumobile"><span><a>Th=C3=A8mes</a></s=
-pan><img src=3D"https://www.bibmath.net/img/flechemenumobileferme.png" id=
-=3D"sousmenumobileimageferme5"><img src=3D"https://www.bibmath.net/img/flec=
+pan><img src=3D"https://www.bibnet/img/flechemenumobileferme.png" id=
+=3D"sousmenumobileimageferme5"><img src=3D"https://www.bibnet/img/flec=
 hemenumobileouvert.png" id=3D"sousmenumobileimageouvert5" style=3D"display:=
 none;"></div><div class=3D"sousmenumobile" id=3D"sousmenumobile5"><div clas=
-s=3D"sousitemmenumobile"><span><a href=3D"https://www.bibmath.net/crypto/in=
+s=3D"sousitemmenumobile"><span><a href=3D"https://www.bibnet/crypto/in=
 dex.php">Cryptographie et codes secrets</a></span></div><div class=3D"sousi=
-temmenumobile"><span><a href=3D"https://www.bibmath.net/jeux/index.php">Jeu=
+temmenumobile"><span><a href=3D"https://www.bibnet/jeux/index.php">Jeu=
 x et =C3=A9nigmes</a></span></div><div class=3D"sousitemmenumobile"><span><=
-a href=3D"https://www.bibmath.net/carres/index.php?action=3Daffiche&amp;quo=
+a href=3D"https://www.bibnet/carres/index.php?action=3Daffiche&amp;quo=
 i=3Dcarres">Carr=C3=A9s magiques</a></span></div><div class=3D"sousitemmenu=
-mobile"><span><a href=3D"https://www.bibmath.net/quotidien/index.php">Math=
+mobile"><span><a href=3D"https://www.bibnet/quotidien/index.php">Math=
 =C3=A9matiques au quotidien</a></span></div><div class=3D"sousitemmenumobil=
-e"><span><a href=3D"https://www.bibmath.net/dossiers/index.php">Dossiers</a=
+e"><span><a href=3D"https://www.bibnet/dossiers/index.php">Dossiers</a=
 ></span></div></div></div><div class=3D"itemmenumobile"><div class=3D"tetei=
-temmenumobile"><span><a href=3D"https://www.bibmath.net/forums/index.php">F=
-orum</a></span><img src=3D"https://www.bibmath.net/img/flechemenumobileferm=
-e.png" id=3D"sousmenumobileimageferme6"><img src=3D"https://www.bibmath.net=
+temmenumobile"><span><a href=3D"https://www.bibnet/forums/index.php">F=
+orum</a></span><img src=3D"https://www.bibnet/img/flechemenumobileferm=
+e.png" id=3D"sousmenumobileimageferme6"><img src=3D"https://www.bibnet=
 /img/flechemenumobileouvert.png" id=3D"sousmenumobileimageouvert6" style=3D=
 "display:none;"></div></div><div class=3D"itemmenumobile"><div class=3D"tet=
-eitemmenumobile"><span><a href=3D"https://www.bibmath.net/ressources/moncom=
-pte.php">Mon compte</a></span><img src=3D"https://www.bibmath.net/img/flech=
+eitemmenumobile"><span><a href=3D"https://www.bibnet/ressources/moncom=
+pte.php">Mon compte</a></span><img src=3D"https://www.bibnet/img/flech=
 emenumobileferme.png" id=3D"sousmenumobileimageferme7"><img src=3D"https://=
-www.bibmath.net/img/flechemenumobileouvert.png" id=3D"sousmenumobileimageou=
+www.bibnet/img/flechemenumobileouvert.png" id=3D"sousmenumobileimageou=
 vert7" style=3D"display:none;"></div></div></nav></div><div id=3D"main" cla=
 ss=3D"decale"><div id=3D"maincentre"><div id=3D"gauche"><div id=3D"pubhaute=
 "><div class=3D"r89-desktop-leaderboard-atf"></div><div style=3D"min-height=
 :280px;" class=3D"r89-mobile-billboard-top"></div></div><article id=3D"cont=
-enugauche"><div class=3D"chemin"><a href=3D"https://www.bibmath.net/dico/in=
+enugauche"><div class=3D"chemin"><a href=3D"https://www.bibnet/dico/in=
 dex.php">Dictionnaire de math=C3=A9matiques</a> &gt; <a href=3D"https://www=
-.bibmath.net/dico/index.php?action=3Drub&amp;quoi=3D300">Analyse</a> &gt; <=
-a href=3D"https://www.bibmath.net/dico/index.php?action=3Drub&amp;quoi=3D30=
+.bibnet/dico/index.php?action=3Drub&amp;quoi=3D300">Analyse</a> &gt; <=
+a href=3D"https://www.bibnet/dico/index.php?action=3Drub&amp;quoi=3D30=
 7">Analyse num=C3=A9rique</a> &gt; </div><h1>Interpolation de Tchebychev</h=
 1><p class=3D"dtexte">Soit une fonction <span class=3D"MathJax_Preview" sty=
 le=3D"color: inherit; --darkreader-inline-color: inherit; display: none;" d=
@@ -1332,139 +1332,139 @@ text>&nbsp;</mtext><mi>k</mi><mo>=3D</mo><mn>1</mn><mo>,</mo><mo>=E2=80=A6<=
  est bien meilleure que l'interpolation aux points =C3=A9quidistants,
 elle ne r=C3=A9sout pas compl=C3=A8tement le ph=C3=A9nom=C3=A8ne de Runge.
 </p><div class=3D"titrepartie">Consulter aussi...</div><div class=3D"liste"=
-><ul><li><a href=3D"https://www.bibmath.net/bios/index.php?action=3Daffiche=
+><ul><li><a href=3D"https://www.bibnet/bios/index.php?action=3Daffiche=
 &amp;quoi=3Dtchebychev">Biographie de Pafnouti Tchebychev</a><br></li><li><=
-a href=3D"https://www.bibmath.net/dico/index.php?action=3Daffiche&amp;quoi=
+a href=3D"https://www.bibnet/dico/index.php?action=3Daffiche&amp;quoi=
 =3D./i/interpolation.html">Ph=C3=A9nom=C3=A8ne de Runge</a><br></li><li><a =
-href=3D"https://www.bibmath.net/dico/index.php?action=3Daffiche&amp;quoi=3D=
+href=3D"https://www.bibnet/dico/index.php?action=3Daffiche&amp;quoi=3D=
 ./t/tchebychevpoly.html">Polyn=C3=B4mes de Tchebychev</a><br></li></ul></di=
 v><div class=3D"titrepartie">Recherche alphab=C3=A9tique</div><div class=3D=
-"listedico"><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/i=
+"listedico"><div class=3D"circle"><a href=3D"https://www.bibnet/dico/i=
 ndex.php?action=3Dliste&amp;prem=3Da&amp;fin=3Da">A</a></div><div class=3D"=
-circle"><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&am=
+circle"><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&am=
 p;prem=3Db&amp;fin=3Db">B</a></div><div class=3D"circle"><a href=3D"https:/=
-/www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dc&amp;fin=3Dc">C<=
-/a></div><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/inde=
+/www.bibnet/dico/index.php?action=3Dliste&amp;prem=3Dc&amp;fin=3Dc">C<=
+/a></div><div class=3D"circle"><a href=3D"https://www.bibnet/dico/inde=
 x.php?action=3Dliste&amp;prem=3Dd&amp;fin=3Dd">D</a></div><div class=3D"cir=
-cle"><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;p=
+cle"><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;p=
 rem=3De&amp;fin=3De">E</a></div><div class=3D"circle"><a href=3D"https://ww=
-w.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3Df&amp;fin=3Df">F</a>=
-</div><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index.p=
+w.bibnet/dico/index.php?action=3Dliste&amp;prem=3Df&amp;fin=3Df">F</a>=
+</div><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index.p=
 hp?action=3Dliste&amp;prem=3Dg&amp;fin=3Dg">G</a></div><div class=3D"circle=
-"><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=
+"><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;prem=
 =3Dh&amp;fin=3Dh">H</a></div><div class=3D"circle"><a href=3D"https://www.b=
-ibmath.net/dico/index.php?action=3Dliste&amp;prem=3Di&amp;fin=3Di">I</a></d=
+ibnet/dico/index.php?action=3Dliste&amp;prem=3Di&amp;fin=3Di">I</a></d=
 iv></div><div class=3D"listedico"><div class=3D"circle"><a href=3D"https://=
-www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dj&amp;fin=3Dj">J</=
-a></div><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index=
+www.bibnet/dico/index.php?action=3Dliste&amp;prem=3Dj&amp;fin=3Dj">J</=
+a></div><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index=
 .php?action=3Dliste&amp;prem=3Dk&amp;fin=3Dk">K</a></div><div class=3D"circ=
-le"><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;pr=
+le"><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;pr=
 em=3Dl&amp;fin=3Dl">L</a></div><div class=3D"circle"><a href=3D"https://www=
-.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dm&amp;fin=3Dm">M</a><=
-/div><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index.ph=
+.bibnet/dico/index.php?action=3Dliste&amp;prem=3Dm&amp;fin=3Dm">M</a><=
+/div><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index.ph=
 p?action=3Dliste&amp;prem=3Dn&amp;fin=3Dn">N</a></div><div class=3D"circle"=
-><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=
+><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;prem=
 =3Do&amp;fin=3Do">O</a></div><div class=3D"circle"><a href=3D"https://www.b=
-ibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dp&amp;fin=3Dp">P</a></d=
-iv><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index.php?=
+ibnet/dico/index.php?action=3Dliste&amp;prem=3Dp&amp;fin=3Dp">P</a></d=
+iv><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index.php?=
 action=3Dliste&amp;prem=3Dq&amp;fin=3Dq">Q</a></div><div class=3D"circle"><=
-a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3D=
+a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;prem=3D=
 r&amp;fin=3Dr">R</a></div></div><div class=3D"listedico"><div class=3D"circ=
-le"><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;pr=
+le"><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;pr=
 em=3Ds&amp;fin=3Ds">S</a></div><div class=3D"circle"><a href=3D"https://www=
-.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dt&amp;fin=3Dt">T</a><=
-/div><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index.ph=
+.bibnet/dico/index.php?action=3Dliste&amp;prem=3Dt&amp;fin=3Dt">T</a><=
+/div><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index.ph=
 p?action=3Dliste&amp;prem=3Du&amp;fin=3Du">U</a></div><div class=3D"circle"=
-><a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=
+><a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;prem=
 =3Dv&amp;fin=3Dv">V</a></div><div class=3D"circle"><a href=3D"https://www.b=
-ibmath.net/dico/index.php?action=3Dliste&amp;prem=3Dw&amp;fin=3Dw">W</a></d=
-iv><div class=3D"circle"><a href=3D"https://www.bibmath.net/dico/index.php?=
+ibnet/dico/index.php?action=3Dliste&amp;prem=3Dw&amp;fin=3Dw">W</a></d=
+iv><div class=3D"circle"><a href=3D"https://www.bibnet/dico/index.php?=
 action=3Dliste&amp;prem=3Dx&amp;fin=3Dx">X</a></div><div class=3D"circle"><=
-a href=3D"https://www.bibmath.net/dico/index.php?action=3Dliste&amp;prem=3D=
+a href=3D"https://www.bibnet/dico/index.php?action=3Dliste&amp;prem=3D=
 y&amp;fin=3Dy">Y</a></div><div class=3D"circle"><a href=3D"https://www.bibm=
 ath.net/dico/index.php?action=3Dliste&amp;prem=3Dz&amp;fin=3Dz">Z</a></div>=
 </div><div class=3D"titrepartie">Recherche th=C3=A9matique</div><div class=
-=3D"listesurdeuxcolonnes"><li><a href=3D"https://www.bibmath.net/dico/index=
+=3D"listesurdeuxcolonnes"><li><a href=3D"https://www.bibnet/dico/index=
 .php?action=3Drub&amp;quoi=3D200">Alg=C3=A8bre</a></li><li><a href=3D"https=
-://www.bibmath.net/dico/index.php?action=3Drub&amp;quoi=3D300">Analyse</a><=
-/li><li><a href=3D"https://www.bibmath.net/dico/index.php?action=3Drub&amp;=
-quoi=3D700">Applications</a></li><li><a href=3D"https://www.bibmath.net/dic=
+://www.bibnet/dico/index.php?action=3Drub&amp;quoi=3D300">Analyse</a><=
+/li><li><a href=3D"https://www.bibnet/dico/index.php?action=3Drub&amp;=
+quoi=3D700">Applications</a></li><li><a href=3D"https://www.bibnet/dic=
 o/index.php?action=3Drub&amp;quoi=3D600">Arithm=C3=A9tique</a></li><li><a h=
-ref=3D"https://www.bibmath.net/dico/index.php?action=3Drub&amp;quoi=3D500">=
+ref=3D"https://www.bibnet/dico/index.php?action=3Drub&amp;quoi=3D500">=
 Probabilit=C3=A9 et statistiques</a></li><li><a href=3D"https://www.bibmath=
 .net/dico/index.php?action=3Drub&amp;quoi=3D400">G=C3=A9om=C3=A9trie</a></l=
-i><li><a href=3D"https://www.bibmath.net/dico/index.php?action=3Drub&amp;qu=
-oi=3D100">Fondements</a></li><li><a href=3D"https://www.bibmath.net/dico/in=
+i><li><a href=3D"https://www.bibnet/dico/index.php?action=3Drub&amp;qu=
+oi=3D100">Fondements</a></li><li><a href=3D"https://www.bibnet/dico/in=
 dex.php?action=3Drub&amp;quoi=3D0">Histoire</a></li><li><a href=3D"https://=
-www.bibmath.net/dico/index.php?action=3Drub&amp;quoi=3D900">Math=C3=A9matiq=
-ues discr=C3=A8tes</a> </li><li><a href=3D"https://www.bibmath.net/dico/ind=
+www.bibnet/dico/index.php?action=3Drub&amp;quoi=3D900">Math=C3=A9matiq=
+ues discr=C3=A8tes</a> </li><li><a href=3D"https://www.bibnet/dico/ind=
 ex.php?action=3Drub&amp;quoi=3D800">Math=C3=A9matiques interactives</a> </l=
 i></div></article></div><aside id=3D"droite"><div class=3D"contenudroite"><=
 h1>
-	Discussions des forums</h1><li><a href=3D"https://www.bibmath.net/forums/v=
+	Discussions des forums</h1><li><a href=3D"https://www.bibnet/forums/v=
 iewtopic.php?id=3D17039&amp;action=3Dnew" title=3D"Justification somme de v=
 ariables al=C3=A9atoires">Justification somme de va =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17035&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17035&amp;=
 action=3Dnew" title=3D"Changement de r=C3=A9f=C3=A9rentiel">Changement de r=
 =C3=A9f=C3=A9rentiel</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D16991&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D16991&amp;=
 action=3Dnew" title=3D"Qui veut de la g=C3=A9om=C3=A9trie &quot;=C3=A0 l'an=
 cienne&quot; ?">Qui veut de la g=C3=A9om=C3=A9trie =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D16988&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D16988&amp;=
 action=3Dnew" title=3D"Je cherche des relectrices et des relecteurs de Prem=
 i=C3=A8re ou de Seconde">Je cherche des relectrice =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D16902&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D16902&amp;=
 action=3Dnew" title=3D"M=C3=A9thode du suppl=C3=A9mentaire pour une forme b=
 ilin=C3=A9aire non r=C3=A9guli=C3=A8re">M=C3=A9thode du suppl=C3=A9mentaire=
  =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17038&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17038&amp;=
 action=3Dnew" title=3D"ferm=C3=A9 -avec compl=C3=A9mentaire-">ferm=C3=A9 -a=
 vec compl=C3=A9mentaire-</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17037&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17037&amp;=
 action=3Dnew" title=3D"Encadrement de x">Encadrement de x</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17036&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17036&amp;=
 action=3Dnew" title=3D"Application des maths de prepa">Application des math=
 s de prepa</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17026&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17026&amp;=
 action=3Dnew" title=3D"Montrer que des lois appartiennent =C3=A0 la famille=
  exponentielle">Montrer que des lois appa =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17033&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17033&amp;=
 action=3Dnew" title=3D"Salut les matheux, qui rel=C3=A8ve ce d=C3=A9fi =C3=
 =A9nigmatique?">Salut les matheux, qui re =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D16916&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D16916&amp;=
 action=3Dnew" title=3D"aidez moi =C3=A0 r=C3=A9soudre cette =C3=A9nigme s'i=
 l vous plait">aidez moi =C3=A0 r=C3=A9soudre cett =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17031&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17031&amp;=
 action=3Dnew" title=3D"Polygones et poly=C3=A8dres, fa=C3=A7on param=C3=A9t=
 rique !">Polygones et poly=C3=A8dres, f =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17034&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17034&amp;=
 action=3Dnew" title=3D"Dual d'un bimodule.">Dual d'un bimodule.</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17021&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17021&amp;=
 action=3Dnew" title=3D"Comment d=C3=A9signer le rapport u' sur u ?">Comment=
  d=C3=A9signer le rappo =E2=80=A6</a></li>
-<li><a href=3D"https://www.bibmath.net/forums/viewtopic.php?id=3D17029&amp;=
+<li><a href=3D"https://www.bibnet/forums/viewtopic.php?id=3D17029&amp;=
 action=3Dnew" title=3D"Valeurs propres d'un endomorphisme">Valeurs propres =
 d'un endo =E2=80=A6</a></li>
-<div class=3D"bascontenu"><a href=3D"https://www.bibmath.net/forums/">Acc=
+<div class=3D"bascontenu"><a href=3D"https://www.bibnet/forums/">Acc=
 =C3=A9der aux forums</a></div>  </div><div id=3D"pubdroite" class=3D""><div=
  class=3D"r89-desktop-hpa-atf"></div><div class=3D"contenudroite"><h1>Math=
 =C3=A9maticien du mois</h1><div align=3D"center"><img src=3D"https://www.bi=
-bmath.net/bios/images/bonnet.jpg" class=3D"imgcontenu"></div>
+bnet/bios/images/bonnet.jpg" class=3D"imgcontenu"></div>
 <div align=3D"center">
-<a href=3D"https://www.bibmath.net/bios/index.php?action=3Daffiche&amp;quoi=
+<a href=3D"https://www.bibnet/bios/index.php?action=3Daffiche&amp;quoi=
 =3Dbonnet">Pierre Bonnet (1819-1892)</a>
-</div><div class=3D"bascontenu"><a href=3D"https://www.bibmath.net/bios/ind=
+</div><div class=3D"bascontenu"><a href=3D"https://www.bibnet/bios/ind=
 ex.php">Toutes les biographies</a></div></div></div></aside></div></div><fo=
 oter id=3D"pied"><div id=3D"piedcentre"><section id=3D"listepied"><span cla=
-ss=3D"item"><a href=3D"https://www.bibmath.net/contact.php">Signaler une er=
+ss=3D"item"><a href=3D"https://www.bibnet/contact.php">Signaler une er=
 reur/Nous contacter</a></span><span class=3D"item"><a href=3D"https://www.b=
-ibmath.net/credits.php">Mentions L=C3=A9gales</a></span><span class=3D"item=
+ibnet/credits.php">Mentions L=C3=A9gales</a></span><span class=3D"item=
 "><a class=3D"change-consent">Confidentialit=C3=A9</a></span></section></di=
 v></footer><footer id=3D"baspied"><section id=3D"listepied"></section></foo=
 ter><footer id=3D"piedmobile"><span class=3D"item"><a href=3D"https://www.b=
-ibmath.net/contact.php?origine=3Dmobile">Contact</a></span><span class=3D"i=
+ibnet/contact.php?origine=3Dmobile">Contact</a></span><span class=3D"i=
 tem"><a class=3D"change-consent">Confidentialit=C3=A9</a><span class=3D"ite=
-m"><a href=3D"https://www.bibmath.net/credits.php">Mentions l=C3=A9gales</a=
+m"><a href=3D"https://www.bibnet/credits.php">Mentions l=C3=A9gales</a=
 ></span></span></footer><footer id=3D"baspiedmobile"></footer>
 
 
@@ -1622,22 +1622,22 @@ Content-Location: cid:css-871f4eba-b77a-4836-b24e-9b198d8503c6@mhtml.blink
 
 @media screen and (min-width: 1074px) {
   #droite { border-color: rgb(60, 65, 68); }
-  .contenudroite li { background-image: url("https://www.bibmath.net/img/pu=
+  .contenudroite li { background-image: url("https://www.bibnet/img/pu=
 ce.png"); background-color: initial; list-style-image: initial; }
   .contenudroite h1 { background-image: initial; background-color: rgb(24, =
 26, 27); color: rgb(121, 255, 148); }
-  .bascontenu { background-image: url("blob:https://www.bibmath.net/7a1520c=
+  .bascontenu { background-image: url("blob:https://www.bibnet/7a1520c=
 e-eb02-4eab-a929-e906c36af746"); background-color: initial; }
-  .dliste li { background-image: url("https://www.bibmath.net/img/puce.png"=
+  .dliste li { background-image: url("https://www.bibnet/img/puce.png"=
 ); background-color: initial; }
-  .liste li { background-image: url("https://www.bibmath.net/img/puce.png")=
+  .liste li { background-image: url("https://www.bibnet/img/puce.png")=
 ; background-color: initial; }
 }
 
 @media screen and (max-width: 1023px) and (min-width: 728px) {
-  .dliste li { background-image: url("https://www.bibmath.net/img/puce.png"=
+  .dliste li { background-image: url("https://www.bibnet/img/puce.png"=
 ); background-color: initial; }
-  .liste li { background-image: url("https://www.bibmath.net/img/puce.png")=
+  .liste li { background-image: url("https://www.bibnet/img/puce.png")=
 ; background-color: initial; }
 }
 
@@ -1702,7 +1702,7 @@ color: rgb(71, 142, 0); }
   .inputrecherche { border-width: 0px; border-style: initial; border-color:=
  initial; }
   .boutonrecherche { border-width: initial; border-style: none; border-colo=
-r: initial; background-image: url("blob:https://www.bibmath.net/75dd5550-4b=
+r: initial; background-image: url("blob:https://www.bibnet/75dd5550-4b=
 cd-4761-8327-af62472641fd"); background-color: transparent; }
   #menumobile { background-image: initial; background-color: rgb(32, 34, 36=
 ); color: rgb(175, 168, 158); }
@@ -1724,9 +1724,9 @@ border-color: initial; }
   #piedmobile .item { color: rgb(232, 230, 227); }
   #piedmobile a { color: rgb(232, 230, 227); }
   #contenugauche h1 { color: rgb(121, 255, 148); }
-  .dliste li { background-image: url("https://www.bibmath.net/img/puce.png"=
+  .dliste li { background-image: url("https://www.bibnet/img/puce.png"=
 ); background-color: initial; }
-  .liste li { background-image: url("https://www.bibmath.net/img/puce.png")=
+  .liste li { background-image: url("https://www.bibnet/img/puce.png")=
 ; background-color: initial; }
 }
 
@@ -1740,7 +1740,7 @@ a:hover { color: rgb(121, 159, 200); }
 
 a:active { color: rgb(127, 174, 255); text-decoration-color: initial; }
 
-.listesurdeuxcolonnes li { background-image: url("https://www.bibmath.net/i=
+.listesurdeuxcolonnes li { background-image: url("https://www.bibnet/i=
 mg/puce.png"); background-color: initial; }
 
 .separator { color: rgb(121, 255, 148); border-color: rgb(48, 52, 54) rgb(4=
@@ -1836,7 +1836,7 @@ lor: rgb(34, 36, 38); }
 .boutonsvideo { background-image: linear-gradient(rgb(43, 47, 49), rgb(24, =
 26, 27)); background-color: initial; }
 
-.boutonsvideo span { background-image: url("blob:https://www.bibmath.net/fa=
+.boutonsvideo span { background-image: url("blob:https://www.bibnet/fa=
 3d2fc6-0cfb-40a9-bcbc-cbab6c7ff328"); background-color: initial; }
 
 .boutonsvideo:hover { background-image: linear-gradient(rgb(53, 57, 59), rg=
@@ -1905,7 +1905,7 @@ r: rgb(34, 36, 38); }
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/puce.png
+Content-Location: https://www.bibnet/img/puce.png
 
 iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAACBjSFJNAAB6
 JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAB
@@ -1930,7 +1930,7 @@ AAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: blob:https://www.bibmath.net/7a1520ce-eb02-4eab-a929-e906c36af746
+Content-Location: blob:https://www.bibnet/7a1520ce-eb02-4eab-a929-e906c36af746
 
 <svg xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/=
 1999/xlink" width=3D"16" height=3D"16"><defs><filter id=3D"darkreader-image=
@@ -2880,7 +2880,7 @@ x 2px 5px; }
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.bibmath.net/css/bibstyle.css
+Content-Location: https://www.bibnet/css/bibstyle.css
 
 @charset "utf-8";
 
@@ -3459,7 +3459,7 @@ x no-repeat; list-style-type: none; margin: 3px; padding-left: 20px; }
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/main.png
+Content-Location: https://www.bibnet/img/main.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAA
@@ -3482,7 +3482,7 @@ MTJldHNiamNvSE04UkzRBD8KAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/youtube.png
+Content-Location: https://www.bibnet/img/youtube.png
 
 iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
 WXMAAABIAAAASABGyWs+AAAACXZwQWcAAAAgAAAAIACH+pydAAAIcUlEQVRYw61XaXBUVRZ+JIJ/
@@ -3530,7 +3530,7 @@ MDktMDktMTNUMTQ6MjY6NTQrMDI6MDBQcw2RAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/fb.png
+Content-Location: https://www.bibnet/img/fb.png
 
 iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAKJ2lDQ1BpY2MAAHjanZZ3VFTXFofP
 vXd6oc0wAlKG3rvAANJ7k15FYZgZYCgDDjM0sSGiAhFFRJoiSFDEgNFQJFZEsRAUVLAHJAgoMRhF
@@ -3629,7 +3629,7 @@ MDYrMDI6MDBgznniAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/moncompte.png
+Content-Location: https://www.bibnet/img/moncompte.png
 
 iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAVlpVFh0WE1M
 OmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6
@@ -3694,7 +3694,7 @@ b1dp1BJrufFINBwJBoeiLlev0knnsePFGLhcWj0ytcNXPv8Hlt9DQ6UxfQYAAAAASUVORK5CYII=
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net//img/recherche.png
+Content-Location: https://www.bibnet//img/recherche.png
 
 iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGOfPtRkwAAACBjSFJN
 AAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAABYlAAAWJQFJUiTw
@@ -3723,7 +3723,7 @@ AAAASUVORK5CYII=
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/menumobile.png
+Content-Location: https://www.bibnet/img/menumobile.png
 
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABAEAQAAABQ8GUWAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -3755,7 +3755,7 @@ jAW0XDgpYwGurQnf4aHb+7ZiDZht4C/f5R0YSQ9uXgAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/deletemobile.png
+Content-Location: https://www.bibnet/img/deletemobile.png
 
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -3779,7 +3779,7 @@ U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAASUVORK5CYII=
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/forumgrand.png
+Content-Location: https://www.bibnet/img/forumgrand.png
 
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABAEAQAAABQ8GUWAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -3830,7 +3830,7 @@ q+73fzaTe1nylWlYAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/fbmobile.png
+Content-Location: https://www.bibnet/img/fbmobile.png
 
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABAEAQAAABQ8GUWAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -3859,7 +3859,7 @@ AElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/moncomptemobile.png
+Content-Location: https://www.bibnet/img/moncomptemobile.png
 
 iVBORw0KGgoAAAANSUhEUgAAAIAAAACAEAQAAAA5p3UDAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -3929,7 +3929,7 @@ uTN0enu7Uvw7m+VfxLnUQ3KPNs0AAAAASUVORK5CYII=
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/loupemobile.png
+Content-Location: https://www.bibnet/img/loupemobile.png
 
 iVBORw0KGgoAAAANSUhEUgAAAEAAAABAEAQAAABQ8GUWAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -3977,7 +3977,7 @@ AAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/maison.png
+Content-Location: https://www.bibnet/img/maison.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -4000,7 +4000,7 @@ AAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/lycee16.png
+Content-Location: https://www.bibnet/img/lycee16.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -4015,7 +4015,7 @@ dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/ressources.png
+Content-Location: https://www.bibnet/img/ressources.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -4033,7 +4033,7 @@ QgoRcu0AAAAASUVORK5CYII=
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/bibliotheques.png
+Content-Location: https://www.bibnet/img/bibliotheques.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -4054,7 +4054,7 @@ bXAvbWFnaWNrLTIxMDA1cUtEZWZBcFg0VzBRIv16xQAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/references.png
+Content-Location: https://www.bibnet/img/references.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -4081,7 +4081,7 @@ BwAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/themes.png
+Content-Location: https://www.bibnet/img/themes.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -4107,7 +4107,7 @@ b8+PMSz4AsWsDvJvAOfhAAAAAElFTkSuQmCC
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/forum.png
+Content-Location: https://www.bibnet/img/forum.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAQAAADlauupAAAABGdBTUEAALGPC/xhBQAAANJpQ0NQ
 SUNDIFByb2ZpbGUAABiVY2BgrEgsKMhhEmBgyM0rKXIPcoyMiIxSYL/KwM7AyAAGicnFBY4BAT4M
@@ -4133,7 +4133,7 @@ NfcE9qg/s/cEYru92+2fEA4a/8ZFfgGkF5Sg5UCq3QAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/profil.png
+Content-Location: https://www.bibnet/img/profil.png
 
 iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
 qUlEQVR4nLWRMQoCMRAAo42VgvoFEbG86+XK+5Wgn9AnnI0P8BWCv7jCQsHqHFk4IWhu3S0cCIRs
@@ -4144,7 +4144,7 @@ n9EQMMTsrQAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/flechemenumobileferme.png
+Content-Location: https://www.bibnet/img/flechemenumobileferme.png
 
 iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -4160,7 +4160,7 @@ AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/img/flechemenumobileouvert.png
+Content-Location: https://www.bibnet/img/flechemenumobileouvert.png
 
 iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZ
@@ -4177,7 +4177,7 @@ GgAAAABJRU5ErkJggg==
 ------MultipartBoundary--s98CYHkHJPu5svczEFRfRlactRsTZ4pcKDuYHNHm8G----
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
-Content-Location: https://www.bibmath.net/bios/images/bonnet.jpg
+Content-Location: https://www.bibnet/bios/images/bonnet.jpg
 
 /9j/4AAQSkZJRgABAQEAkACQAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
