@@ -5,7 +5,7 @@ class Spline1Poly:
         self.x = np.array(x, dtype=float)
         self.y = np.array(y, dtype=float)
         self.name = name
-        self.polynomials = [NewtonInterpolPoly(self.x[i:i+2], self.y[i:i+2]) for i in range(len(self.x)-1)]
+        self.polynomials = [NewtonInterpolPoly(self.x[i:i+2], self.y[i:i+2], "") for i in range(len(self.x)-1)]
 
     def horner_eval(self, x0):
         before_x0 = 0
@@ -19,4 +19,11 @@ class Spline1Poly:
     def plot(self, ax, label="Spline linear Interpolation of f"):
         ax.plot(self.x, self.y, label=label)
         ax.legend()
+        
+    def __str__(self) -> str:
+        string = (self.name + "(x) =")
+        for i, poly in enumerate(self.polynomials):
+            string += "\t" + str(poly)[5:] + f"   if x in [{self.x[i]}, {self.x[i+1]}]\n"
+            
+        return string
 

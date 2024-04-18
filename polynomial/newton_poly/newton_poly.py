@@ -1,5 +1,7 @@
 import numpy as np
 
+from ..utils import number_wrapper
+
 class NewtonPolynomial:
     def __init__(self, coefficients, x, name="P"):
         assert len(coefficients) == len(x) + 1
@@ -19,13 +21,15 @@ class NewtonPolynomial:
         ax.plot(x_plot, y_plot, label=label)
         ax.legend()
     
-    def __str__(self):
-        nb_dec_digits = 3
-        terms = [f"{self.coefficients[0]}"] if self.coefficients[0] != 0 else []
+    def __str__(self, nb_dec_digits = 6):
+        first_term = round(self.coefficients[0], nb_dec_digits)
+        terms = [f"{first_term}"] if first_term != 0 else []
         term = ""
         for i in range(0, len(self.coefficients)-1):
-            if self.coefficients[i+1] == 0:
+            coef_str = number_wrapper(self.coefficients[i+1], nb_dec_digits)
+            if coef_str == "":
                 continue
-            term += f"(x - {round(self.x[i], nb_dec_digits)})" if self.x[i] != 0 else "x"
-            terms.append(f"{round(self.coefficients[i+1], nb_dec_digits)} * " + term)
+            val = round(self.x[i], nb_dec_digits)
+            term += f"(x - {val})" if val > 0 else f"(x + {-val})" if val < 0 else "x"
+            terms.append(f"{coef_str} * " + term)
         return self.name + "(x) = " + " + ".join(terms)
